@@ -1,0 +1,26 @@
+{
+  "name": "کارت دیجیتال فرهاد جلیل‌زاده | اُماج",
+  "short_name": "فرهاد جلیل‌زاده",
+  "description": "کارت دیجیتال فرهاد جلیل‌زاده، شرکت اُماج",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#034694",
+  "theme_color": "#034694",
+  "icons": [
+    {
+      "src": "./omaj-logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./omaj-logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
